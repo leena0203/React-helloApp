@@ -1,5 +1,5 @@
 import React from 'react';
-import '../home/home';
+import './home.css';
 import logo from '../assets/BridgeLabz New Logo.svg';
 
 class Home extends React.Component{
